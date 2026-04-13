@@ -1,0 +1,99 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html body {background-color: rgba(245, 245, 245, 1.00)
+}
+
+
+.pink-col{
+    background-color: pink;
+    color: maroon;
+}
+
+.blue-col{
+    background-color: cornflowerblue;
+    color: maroon;
+}
+
+.yellow-col{
+    background-color: cornsilk;
+    color: maroon;
+}
+
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.bg-body-tertiary{
+    background-color: rgba(126, 171, 214, 0.8)!important;
+}
+
+.nav-link{
+    color: maroon!important;
+}
+
+.nav-link:hover{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: purple !important;
+}
+
+.active{
+    color:blueviolet !important;
+}
+
+.navbar-toggler{
+    filter: invert (100%);
+}
+
+h1 {
+    font-size: 1.802em;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.602em;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.424em;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 1.266em;
+    font-weight: 400;
+}
+
+p {
+    font-weight: 400;
+}
+
+.footer-cy{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: purple;
+    border-color: purple;
+}
+
+.btn-primary:hover{
+    background-color: red;
+    border-color: red;
+}
+
+
+.carousel-padding{
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: green
+}
