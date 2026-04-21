@@ -1,0 +1,345 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html body {background-color: rgba(245, 245, 245, 1.00)
+}
+
+
+.pink-col{
+    background-color: pink;
+    color: black;
+}
+
+.blue-col{
+    background-color: cornflowerblue;
+    color: black;
+}
+
+.yellow-col{
+    background-color: cornsilk;
+    color: black;
+}
+
+.lora-regular {
+    font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  }
+  
+.bg-body-tertiary{
+    background-color: rgba(126, 171, 214, 1)!important;
+}
+
+.nav-link{
+    color: black!important;
+}
+
+.nav-link:hover{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: black !important;
+}
+
+.active{
+    color:white !important;
+}
+
+.navbar-toggler{
+    filter: invert (100%);
+}
+
+h1 {
+    font-size: 1.802em;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.602em;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.424em;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 1.266em;
+    font-weight: 400;
+}
+
+p {
+    font-weight: 400;
+}
+
+.footer-cy{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: purple;
+    border-color: purple;
+}
+
+.btn-primary:hover{
+    background-color: red;
+    border-color: red;
+}
+
+
+.carousel-padding{
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: green
+}
+
+
+.type1 h1{
+    font-family: "Libre Baskerville", serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.05;
+
+    }
+
+.type1 h2{
+    font-family: "Libre Baskerville", serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.1;
+
+    }
+
+ .type1 h3{
+    font-family:"Libre Baskerville", serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.2;
+
+    }
+
+.type1 h4{
+    font-family:"Libre Baskerville", serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.3;
+
+    }
+
+.type1 p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.7;
+    }
+
+.type1 .emphasized{
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.7;
+    font-style: italic;
+    }
+
+.type1 .caption{
+        font-family: "Montserrat", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.4;
+
+        }
+
+ .type1 a{
+            font-family: "Montserrat", sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.7;
+            text-emphasis-color: blue;
+            }
+.type1 a:hover{
+    font-style: italic;
+}
+
+
+.type2 h1{
+    font-family: "Playfair Display", serif;
+    font-size: 43px;
+    font-weight: 800;
+
+    }
+
+.type2 h2{
+    font-family: "Playfair Display", serif;
+    font-size: 32px;
+    font-weight: 700;
+
+    }
+
+ .type2 h3{
+    font-family:"Playfair Display", serif;
+    font-size: 24px;
+    font-weight: 600;
+    }
+
+.type2 h4{
+    font-family:"Playfair Display", serif;
+    font-size: 18px;
+    font-weight: 700;
+
+    }
+
+.type2 p{
+    font-family: "Manrope", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+
+    }
+
+.type2 .emphasized{
+    font-family: "Manrope", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+
+    }
+
+.type2 .caption{
+        font-family: "Manrope", sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+
+        }
+
+ .type2 a{
+            font-family: "Manrope", sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            text-emphasis-color: blue;
+            }
+.type2 a:hover{
+    color:orange;
+}
+
+
+.type3 h1{
+    font-family: "Cormorant", serif;
+    font-size: 89.76px;
+    font-weight: 700;
+    line-height: 1.1;
+    }
+
+.type3 h2{
+    font-family: "Cormorant", serif;
+    font-size: 67.34px;
+    font-weight: 600;
+    line-height: 1.15;
+
+    }
+
+ .type3 h3{
+    font-family:"Cormorant", serif;
+    font-size: 50.52px;
+    font-weight: 600;
+    line-height: 1.2;
+
+    }
+
+.type3 h4{
+    font-family:"Cormorant", serif;
+    font-size: 37.9px;
+    font-weight: 500;
+    line-height: 1.3;
+
+    }
+
+.type3 p{
+    font-family: "Cormorant", serif;
+    font-size: 21.33px;
+    font-weight: 400;
+    line-height: 1.7;
+    }
+
+.type3 .emphasized{
+    font-family: "Cormorant", serif;
+    font-size: 21.33px;
+    font-weight: 700;
+    line-height: 1.4;
+    }
+
+.type3 .caption{
+        font-family: "Cormorant", serif;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.4;
+
+        }
+
+ .type3 a{
+            font-family: "Cormorant", serif;
+            font-size: 21.33x;
+            font-weight: 600;
+            color: purple;
+            text-decoration: none;
+            }
+
+.type3 a:hover{
+  text-decoration: underline;
+}
+
+.libre-baskerville-<uniquifier> {
+    font-family: "Libre Baskerville", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+
+  .montserrat-<uniquifier> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+  .manrope {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+  .playfair-> {
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+
+
+.oswald- > {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+.cormorant-> {
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+  }
+
