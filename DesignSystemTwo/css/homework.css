@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html body {background-color: lightcyan;
+}
+
+
+.pink-col{
+    background-color: pink;
+    color: black;
+}
+
+.blue-col{
+    background-color: cornflowerblue;
+    color: black;
+}
+
+.yellow-col{
+    background-color: cornsilk;
+    color: black;
+}
+
+
+  
+.bg-body-tertiary{
+    background-color: rgba(126, 171, 214, 1)!important;
+}
+
+.nav-link{
+    color: black!important;
+}
+
+.nav-link:hover{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: black !important;
+}
+
+.active{
+    color:white !important;
+}
+
+.navbar-toggler{
+    filter: invert (100%);
+}
+
+body {
+    font-family: "Cormorant", serif;
+}
+
+.footer-cy{
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: purple;
+    border-color: purple;
+}
+
+.btn-primary:hover{
+    background-color: red;
+    border-color: red;
+}
+
+
+.carousel-padding{
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: green
+}
+
+
+
+h1{
+    font-family: "Cormorant", serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 1.1;
+    }
+
+h2{
+    font-family: "Cormorant", serif;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.15;
+
+    }
+
+h3{
+    font-family:"Cormorant", serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.2;
+
+    }
+
+h4{
+    font-family:"Cormorant", serif;
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 1.3;
+
+    }
+
+p{
+    font-family: "Cormorant", serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7;
+    }
+
+.emphasized{
+    font-family: "Cormorant", serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.4;
+    }
+
+.caption{
+        font-family: "Cormorant", serif;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.4;
+
+        }
+
+a{
+            font-family: "Cormorant", serif;
+            font-size: 20px;
+            font-weight: 600;
+            color: purple;
+            text-decoration: none;
+            }
+
+.type3 a:hover{
+  text-decoration: underline;
+}
+
+
+
+.cormorant {
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
+
+  
+    
+    .color-palette {
+        width: 100%;
+        height: 150px;
+    }
+    
+    .color-black {
+        background-color: #141414;
+    }
+    
+    .color-mardigras {
+        background-color: #8D0085;
+    }
+    
+    .color-floralblue {
+        background-color: #8EBBDF;
+    }
+    
+    .color-bluechalk {
+        background-color: #ECE9FF;
+    }
+    
+    .color-glossyaluminum {
+        background-color: #C8C8C8;
+    }
+    
+    .color-superpurple {
+        background-color: #9702EB;
+    }
+
+ 
